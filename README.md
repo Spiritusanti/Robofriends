@@ -1,3 +1,9 @@
+# Robofriends:
+First React project - a searchable contacts web app using JSON placeholder data and avatars from https://robohash.org/.
+Built as part of The Complete Web Developer from Andrei Neagoie(Zero to Mastery).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
